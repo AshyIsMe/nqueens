@@ -8,6 +8,7 @@ authors = ["Aaron Ash <aaron.ash@gmail.com>"]
 python = ">=3.9,<3.11"
 networkx = "^2.6.3"
 numpy = "^1.21.2"
+matplotlib = "^3.4.3"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
